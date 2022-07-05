@@ -10,7 +10,7 @@ Used the following concepts in JavaScript
 6.	Logical operators
 7.	for loops
 8.	Math objects (.floor and .random)
-9.	Return
+9.	Return statements
 
 
 Happy Coding!
